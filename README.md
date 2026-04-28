@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @watchmedash
-- 👀 I’m interested in ...YOU
+👋 Hi, I’m @watchmedash
+👀 I’m interested in ...YOU
 
 <!---
 watchmedash/watchmedash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
